@@ -106,6 +106,6 @@
     "packer_role":"packer",
     "packer_instance_profile":"packer",
     "instance_type":"m3.medium",
-    "bake_volume_size":"8"
+    "bake_volume_size":"20"
   }
 }
